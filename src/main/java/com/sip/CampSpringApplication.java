@@ -12,6 +12,8 @@ public class CampSpringApplication {
 		System.out.println("Camp devops Started1");
 		System.out.println("Camp devops Started3 dev");
 		System.out.println("Camp devops Started5");
+		System.out.println("Camp devops Started6");
+
 
 		
 	}
