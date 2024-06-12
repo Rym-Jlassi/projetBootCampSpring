@@ -9,6 +9,7 @@ public class CampSpringApplication {
 	public static void main(String[] args) {
 		SpringApplication.run(CampSpringApplication.class, args);
 		System.out.println("Camp devops Started");
+		System.out.println("Camp devops Started1");
 		
 	}
 
